@@ -65,6 +65,7 @@ The dashboard is deployed using Streamlit Cloud and connected to this GitHub rep
 
 ## 👨‍💻 Author
 Visna Senadi De Vass
+
 Student Project – Data Science Project Lifecycle Coursework
 
 ---
