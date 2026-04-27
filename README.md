@@ -103,3 +103,23 @@ Student Project – Data Science Project Lifecycle Coursework
 ---
 
 ## ▶️ Run Locally
+
+1. Clone the repository
+```bash
+git clone https://github.com/visnadevass/Carbon-Efficiency-Dashboard-CO2-per-GDP-.git
+```
+
+2. Navigate to the project folder
+```bash
+cd Carbon-Efficiency-Dashboard-CO2-per-GDP-
+```
+
+3. Install required libraries
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the Streamlit app
+```bash
+streamlit run app.py
+```
